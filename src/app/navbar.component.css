@@ -1,0 +1,11 @@
+nav {
+  color: rgb(248, 230, 248);
+  font-family: sans-serif;
+  background-color: green;
+}
+
+.headshot {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
